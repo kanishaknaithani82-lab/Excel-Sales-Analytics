@@ -1,7 +1,3 @@
-Got it 👍. Since your document is already well-structured, let me propose some **refinements** to make it sharper, more professional, and easier to read. Here’s a revised version with changes in formatting, clarity, and flow:
-
----
-
 # 📊 Sales Report  
 
 ### Project Objectives  
@@ -19,7 +15,6 @@ Got it 👍. Since your document is already well-structured, let me propose some
 - Determine effective customer discounts.  
 - Support negotiations with consumers.  
 - Highlight opportunities for expansion in promising markets.  
-
 ---
 
 # 💰 Finance Report  
@@ -44,7 +39,6 @@ Got it 👍. Since your document is already well-structured, let me propose some
 - Build confidence in the organization’s financial outlook.  
 
 ---
-
 # 🛠️ Technical Skills  
 - Proficiency in **ETL methodology (Extract, Transform, Load)**  
 - Generating date tables using **Power Query**  
@@ -52,7 +46,6 @@ Got it 👍. Since your document is already well-structured, let me propose some
 - Establishing data model relationships with **Power Pivot**  
 - Incorporating supplementary data into existing models  
 - Creating calculated columns using **DAX**  
-
 ---
 
 # 🤝 Soft Skills  
